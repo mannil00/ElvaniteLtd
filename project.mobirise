@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Elvanite Group",
-    "currentPage": "CaseStudies.html",
+    "currentPage": "Group Landing.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -364,9 +364,9 @@
           "_anchor": "header4-a",
           "_params": {
             "parallax": true,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-1-2000x1125.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -374,7 +374,7 @@
               "height": 720,
               "url": "https://www.youtube.com/embed/OiufXsF4J-g?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.4",
             "overlayColor": "#2969b0",
@@ -495,7 +495,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/308489-234215219974698-1399264172-n-600x377.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-1-600x337.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -511,7 +511,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/308489-234215219974698-1399264172-n-600x377.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-600x337.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -543,7 +543,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/308489-234215219974698-1399264172-n-600x377.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-2-600x337.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -597,8 +597,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1124-800x449.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x1124.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -607,18 +607,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-1-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-1-2000x1500.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x1125.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -627,8 +617,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-4-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-4-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-1-2000x1125.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
