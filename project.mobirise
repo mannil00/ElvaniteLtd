@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 70,
+    "uniqCompNum": 71,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -1996,7 +1996,7 @@
                 "overlayColor": "#2969b0",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "Felixstowe Pier Amusments",
+                "title": "Felixstowe Pier Amusements",
                 "showText": true,
                 "text": "Elvanite Recycling had been awarded the contract to demolish the old amusement building. The pier itself was to remain intact and a new amusement arcade to be built. <br>Work commenced the first week in October 2016.",
                 "showButtons": false,
@@ -2148,7 +2148,12 @@
             "showBullets": true
           },
           "_anchor": "slider3-1o",
-          "articleLayout": false
+          "articleLayout": false,
+          "_styles": {
+            "H2": {
+              "font-size": "30px"
+            }
+          }
         },
         {
           "_tags": [
@@ -2294,7 +2299,12 @@
             "showBullets": true
           },
           "_anchor": "slider3-1r",
-          "articleLayout": false
+          "articleLayout": false,
+          "_styles": {
+            "H2": {
+              "font-size": "30px"
+            }
+          }
         },
         {
           "_inherit": "menu",
