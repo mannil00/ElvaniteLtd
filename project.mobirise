@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Elvanite Group",
-    "currentPage": "Group Landing.html",
+    "currentPage": "SoilRemediation.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -261,13 +261,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#d6d6d6"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#e7e7e7!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#efefef"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
               "color": "#dc1f1c",
@@ -358,7 +358,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "text-align": "right"
+              "text-align": "center"
             }
           },
           "_anchor": "header4-a",
@@ -378,7 +378,7 @@
             "overlay": true,
             "overlayOpacity": "0.4",
             "overlayColor": "#2969b0",
-            "contentAlign": "right",
+            "contentAlign": "center",
             "showTitle": true,
             "showText": false,
             "showButtons": true
@@ -808,13 +808,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#d6d6d6"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#e7e7e7!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#efefef"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
               "color": "#dc1f1c",
@@ -905,7 +905,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "text-align": "right",
+              "text-align": "center",
               "font-size": "60px"
             },
             ".btn": {
@@ -929,7 +929,7 @@
             "overlay": true,
             "overlayOpacity": "0.5",
             "overlayColor": "#41a85f",
-            "contentAlign": "right",
+            "contentAlign": "center",
             "showTitle": true,
             "showText": false,
             "showButtons": true
