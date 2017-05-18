@@ -577,6 +577,9 @@ h6,
 #content5-d p {
   color: #fff;
 }
+#content5-d .mbr-section-title {
+  text-align: center;
+}
 #features3-f H4 {
   color: #2969b0;
 }
