@@ -899,19 +899,19 @@ h6,
 }
 #ext_menu-1i .link[aria-expanded="true"],
 #ext_menu-1i .dropdown-menu {
-  background: #d6d6d6;
+  background: #e6e6e6;
 }
 #ext_menu-1i .nav-dropdown-sm .link:focus,
 #ext_menu-1i .nav-dropdown-sm .link:hover,
 #ext_menu-1i .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-1i .nav-dropdown-sm .dropdown-item:hover {
-  background: #e7e7e7!important;
+  background: #f7f7f7!important;
 }
 #ext_menu-1i .navbar,
 #ext_menu-1i .nav-dropdown-sm,
 #ext_menu-1i .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-1i .nav-dropdown-sm .dropdown-menu {
-  background: #efefef;
+  background: #ffffff;
 }
 #ext_menu-1i .bg-color.transparent .link {
   color: #dc1f1c;

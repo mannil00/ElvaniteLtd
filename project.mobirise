@@ -96,7 +96,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1",
           "_params": {
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "fontSize": "1.2",
             "fontName": {
               "name": "Source Sans Pro",
@@ -286,7 +286,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-8",
           "_params": {
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "fontSize": "1.2",
             "fontName": {
               "name": "Source Sans Pro",
@@ -833,7 +833,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-u",
           "_params": {
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "fontSize": "1.2",
             "fontName": {
               "name": "Source Sans Pro",
@@ -1334,7 +1334,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-15",
           "_params": {
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "fontSize": "1.2",
             "fontName": {
               "name": "Source Sans Pro",
@@ -1610,7 +1610,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-18",
           "_params": {
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "fontSize": "1.2",
             "fontName": {
               "name": "Source Sans Pro",
@@ -2339,13 +2339,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#d6d6d6"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#e7e7e7!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#efefef"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
               "color": "#dc1f1c",
@@ -2364,7 +2364,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1i",
           "_params": {
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "fontSize": "1.2",
             "fontName": {
               "name": "Source Sans Pro",
