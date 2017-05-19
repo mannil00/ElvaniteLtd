@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Elvanite Group",
-    "currentPage": "SoilRemediation.html",
+    "currentPage": "Accreditations.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -721,9 +721,9 @@
           "title": "Contact Us",
           "subtitle": "Feel free to drop us a line and we will get back to you PDQ!",
           "form": {
-            "action": "leigh_tahlia@icloud.com",
+            "action": "sue@elvanite.co.uk",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for filling out form! We will get back to you ASAP."
             },
             "fields": {
               "name": {
@@ -1280,9 +1280,9 @@
           "title": "Contact Us",
           "subtitle": "Feel free to drop us a line and we will get back to you PDQ!",
           "form": {
-            "action": "leigh_tahlia@icloud.com",
+            "action": "sue@elvanite.co.uk",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for filling out form! We will get back to you ASAP."
             },
             "fields": {
               "name": {
@@ -1531,9 +1531,9 @@
           "title": "Contact Us",
           "subtitle": "Feel free to drop us a line and we will get back to you PDQ!",
           "form": {
-            "action": "leigh_tahlia@icloud.com",
+            "action": "sue@elvanite.co.uk",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for filling out form! We will get back to you ASAP."
             },
             "fields": {
               "name": {
@@ -1822,7 +1822,7 @@
           },
           "title": "Quality",
           "text": "Our quality system is registered to BS EN ISO 9001:2008 through independent assessment by an accredited certification body. The quality management system is regularly reviewed and improved so that our clients may be assured of satisfaction. The system incorporates a strategy for achieving customer satisfaction, a ‘right first time’ approach, achieving a reduction in non-conformances, providing training to all our staff in the implantation of quality management and to ensure the company’s continuous improvement in subsequent years.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Downloads/Quality Policy.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Quality Policy Certificate</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"mannil00.github.io/Quality Policy.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Quality Policy Certificate</a> "
         },
         {
           "_tags": [
