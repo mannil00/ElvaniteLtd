@@ -2741,7 +2741,7 @@
             "timeout": "4",
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/dsc04016-2000x1123.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2846,7 +2846,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/dsc04248-2000x1125.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2866,150 +2866,6 @@
             "showBullets": true
           },
           "_anchor": "slider3-23",
-          "articleLayout": false
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider3",
-          "_styles": {
-            "H2": {
-              "font-size": "30px"
-            }
-          },
-          "_params": {
-            "autoplay": false,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "timeout": "4",
-            "slides": [
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc04016-2000x1123.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayColor": "#2969b0",
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "Ware Technical College",
-                "showText": true,
-                "text": "Elvanite Recycling continued their working relationship with Persimmon Homes, acting as Principal Contractor throughout the project. The scope of the works includes asbestos removal, soft stripping of all buildings and the total deconstruction of all buildings on site. All slabs and foundations were recycled on site to a Type 1 specification to be utilized in the construction phase.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc03930-2000x1124.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "overlayColor": "#41a85f",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "Removal of Underground Reservior in Clacton",
-                "showText": false,
-                "text": "Elvanite Soil Remediation at work removing a concrete underground reservoir. The resulting concrete was recycled into MOT Type I and the void &nbsp;backfilled when the reservoir was completely removed. The backfill consisted of clean clay material compacted in layers. CBR testing was carried out during the filling operation in order that it was compacted to MOT Highways Specification.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc03933-2000x1126.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "overlayColor": "#41a85f",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "Removal of Underground Reservior in Clacton",
-                "showText": false,
-                "text": "Elvanite Soil Remediation at work removing a concrete underground reservoir. The resulting concrete was recycled into MOT Type I and the void &nbsp;backfilled when the reservoir was completely removed. The backfill consisted of clean clay material compacted in layers. CBR testing was carried out during the filling operation in order that it was compacted to MOT Highways Specification.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc04000-2000x1124.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "overlayColor": "#41a85f",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "Removal of Underground Reservior in Clacton",
-                "showText": false,
-                "text": "Elvanite Soil Remediation at work removing a concrete underground reservoir. The resulting concrete was recycled into MOT Type I and the void &nbsp;backfilled when the reservoir was completely removed. The backfill consisted of clean clay material compacted in layers. CBR testing was carried out during the filling operation in order that it was compacted to MOT Highways Specification.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc04117-2000x1123.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "overlayColor": "#41a85f",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "Removal of Underground Reservior in Clacton",
-                "showText": false,
-                "text": "Elvanite Soil Remediation at work removing a concrete underground reservoir. The resulting concrete was recycled into MOT Type I and the void &nbsp;backfilled when the reservoir was completely removed. The backfill consisted of clean clay material compacted in layers. CBR testing was carried out during the filling operation in order that it was compacted to MOT Highways Specification.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc04152-2000x1123.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "overlayColor": "#41a85f",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "Removal of Underground Reservior in Clacton",
-                "showText": false,
-                "text": "Elvanite Soil Remediation at work removing a concrete underground reservoir. The resulting concrete was recycled into MOT Type I and the void &nbsp;backfilled when the reservoir was completely removed. The backfill consisted of clean clay material compacted in layers. CBR testing was carried out during the filling operation in order that it was compacted to MOT Highways Specification.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc04208-2000x1126.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "overlayColor": "#41a85f",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "Removal of Underground Reservior in Clacton",
-                "showText": false,
-                "text": "Elvanite Soil Remediation at work removing a concrete underground reservoir. The resulting concrete was recycled into MOT Type I and the void &nbsp;backfilled when the reservoir was completely removed. The backfill consisted of clean clay material compacted in layers. CBR testing was carried out during the filling operation in order that it was compacted to MOT Highways Specification.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/dsc04248-2000x1125.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "overlayColor": "#41a85f",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "Removal of Underground Reservior in Clacton",
-                "showText": false,
-                "text": "Elvanite Soil Remediation at work removing a concrete underground reservoir. The resulting concrete was recycled into MOT Type I and the void &nbsp;backfilled when the reservoir was completely removed. The backfill consisted of clean clay material compacted in layers. CBR testing was carried out during the filling operation in order that it was compacted to MOT Highways Specification.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ],
-            "fullScreen": false,
-            "bgColor": "#fff",
-            "showBullets": true
-          },
-          "_anchor": "slider3-24",
           "articleLayout": false
         },
         {
