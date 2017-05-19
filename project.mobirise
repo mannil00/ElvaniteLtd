@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Elvanite Group",
-    "currentPage": "Accreditations.html",
+    "currentPage": "Group Landing.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -141,7 +141,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/fotojet-collage-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/landing-page-2000x1500.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -597,8 +597,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1124-800x449.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2000x1124.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dscf0689-2000x1124-800x449.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dscf0689-2000x1124.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -609,16 +609,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-2000x1125-800x450.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-2000x1125.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-1-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-1-2000x1125.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -660,7 +650,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc05072-2000x1123-800x449.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dsc05072-2000x1123.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -671,6 +661,16 @@
                 "image": "@PROJECT_PATH@/assets/images/dsc04972-2000x1125.jpg",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dscf0686-2000x1126-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dscf0686-2000x1126.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
             "spacing": "0",
