@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Elvanite Group",
-    "currentPage": "Recycling.html",
+    "currentPage": "SoilRemediation.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -590,7 +590,7 @@
           "_name": "gallery3",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "3",
             "images": [
               {
                 "tags": "Awesome",
@@ -1149,7 +1149,7 @@
           "_name": "gallery3",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "3",
             "images": [
               {
                 "tags": "Awesome",
