@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Elvanite Group",
-    "currentPage": "Group Landing.html",
+    "currentPage": "Recycling.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -527,7 +527,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/308489-234215219974698-1399264172-n-600x377.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dscf0593-600x337.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -620,7 +620,57 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-1-2000x1125-800x450.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-1-2000x1125.jpg",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc05027-2000x1123-800x449.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc05027-2000x1123.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc05038-2000x1122-800x448.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc05038-2000x1122.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dscf0593-2000x1124-800x449.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dscf0593-2000x1124.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc05072-2000x1123-800x449.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc05072-2000x1123.jpg",
+                "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc04972-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc04972-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": "0",
@@ -920,7 +970,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
+            "overlayOpacity": "0.6",
             "overlayColor": "#41a85f",
             "contentAlign": "center",
             "showTitle": true,
