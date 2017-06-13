@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Elvanite Group",
-    "currentPage": "SoilRemediation.html",
+    "currentPage": "Group Landing.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -161,7 +161,7 @@
             "showText": false,
             "showButtons": true
           },
-          "title": "Elvanite Group",
+          "title": "Elvanite Limited",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"Recycling.html\" data-toolbar=\"-mbrBtnMove\">Demolition</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"Recycling.html\" data-toolbar=\"-mbrBtnMove\">Dismantling</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"Recycling.html\" data-toolbar=\"-mbrBtnMove\">Asbestos</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"Recycling.html\" data-toolbar=\"-mbrBtnMove\">&nbsp;Recycling&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"SoilRemediation.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;Site Clearance &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"SoilRemediation.html\" data-toolbar=\"-mbrBtnMove\">Earth Moving</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"SoilRemediation.html\" data-toolbar=\"-mbrBtnMove\">Crushing/Screening</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"SoilRemediation.html\" data-toolbar=\"-mbrBtnMove\">Soil Remediation</a> "
         },
@@ -2874,6 +2874,11 @@
             "Theme"
           ],
           "_name": "slider3",
+          "_styles": {
+            "H2": {
+              "font-size": "30px"
+            }
+          },
           "_params": {
             "autoplay": false,
             "paddingTop": "1",
@@ -3000,12 +3005,7 @@
             "showBullets": false
           },
           "_anchor": "slider3-25",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "font-size": "30px"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_tags": [
